@@ -1,0 +1,13 @@
+Knihy a Kafe - Book Inventory Report
+Generated: 2026-10-26 20:59
+=============================================
+Total books: 17
+In stock: 11
+Average price: 408 CZK
+
+Top 5 by price:
+  1. Kafka on the Shore - 558 CZK
+  2. The Name of the Rose - 543 CZK
+  3. Foucaults Pendulum - 502 CZK
+  4. The Book of Laughter and Forgetting - 478 CZK
+  5. Flights - 471 CZK
